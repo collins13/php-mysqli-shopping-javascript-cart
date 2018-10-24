@@ -1,0 +1,154 @@
+/* Set black background color, white text and some padding */
+body{
+  overflow: scroll;
+}
+footer {
+  background-color: #555;
+  color: white;
+  padding: 15px;
+}
+#nav-chef{
+  background-color: green;
+}
+.navbar{
+  background-color: green;
+  color: green;
+}
+.jumbotron{
+  background-image: url('images/banner-bg.jpg');
+  background-color: green;
+  height: 300px;
+  color: white;
+}
+.jumbotron ul{
+  list-style: none;
+  m: 1px solid black;
+  line-height: 5px;
+  color: white;
+  font-size: 30px;
+}
+.jumbotron ul li{
+  list-style: none;
+  border: 1px solid white;
+  line-height: 50px;
+  color: black;
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: auto;
+}
+.jumbotron ul li a{
+  list-style: none;
+  margin: 1px solid black;
+  line-height: 5px;
+  color: white;
+  font-size: 30px;
+}
+.jumbotron ul li a:active{
+  list-style: none;
+  margin: 1px solid black;
+  line-height: 5px;
+  color: green;
+  font-size: 30px;
+}
+h2{
+  color: green;
+  font-weight: bold;
+  text-align: center;
+}
+h5{
+  color: red;
+}
+footer ul li a{
+  list-style: none;
+  margin: 1px solid black;
+  line-height: 5px;
+  color: black;
+  font-size: 30px;
+}
+.jumbotron ul li{
+  color: black;
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#contact-form{
+  background-color: white;
+  position: center;
+  line-height:20px;
+  margin-top:20px;
+  padding:10px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  background-color: blue;
+  overflow: hidden;
+}
+#error{
+  color: red;
+  margin-top: 10px;
+  font-weight: bold;
+}
+#success{
+  color: green;
+  font-weight: bold;
+  margin-top: 10px;
+}
+#sidebar1{
+  color: green;
+}
+navbar1{
+  background: green;
+}
+.subscribe{
+  background-color: red;
+}
+#sidebar{
+  height: 100%;
+}
+.content{
+  background-color:#f8f8ff;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+}
+#side_1{
+  background-color: #f8f8ff;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#side_2{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+}
+#cat-side{
+  background-color: #fff;
+  border: 1px solid green;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  margin-top: 0px;
+}
+#cat-side a{
+}
+#add-product-button{
+  margin-top: -35px;
+}
+#main-page{
+  background-color: #fff;
+  margin-top: 20px;
+}
+#size{
+  width: 80%;
+  text-align: left;
+  height: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#main-page{
+  margin-left: auto;
+  margin-right: auto;
+}
